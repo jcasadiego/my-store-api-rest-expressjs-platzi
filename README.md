@@ -1,4 +1,4 @@
-# API-REST-WITH-EXPRESSJS-PLATZI
+# API REST con Express.js en Platzi
 Curso de API REST con express.js 
 
 Para iniciar el proyecto:

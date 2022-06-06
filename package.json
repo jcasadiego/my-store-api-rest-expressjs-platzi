@@ -1,0 +1,37 @@
+{
+  "name": "api-rest-expressjs-platzi-my-store",
+  "version": "1.0.0",
+  "description": "Curso de API REST con Express.js en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcasadiego/my-store-api-rest-expressjs-platzi.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "api",
+    "rest",
+    "javascript",
+    "expressjs",
+    "express",
+    "js"
+  ],
+  "author": "José Casadiego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcasadiego/my-store-api-rest-expressjs-platzi/issues"
+  },
+  "homepage": "https://github.com/jcasadiego/my-store-api-rest-expressjs-platzi#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2"
+  }
+}
