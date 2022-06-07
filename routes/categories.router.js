@@ -1,7 +1,9 @@
 const express = require('express');
-const faker = require('faker');
+
+const CategoriesServices = require('./../services/categories.services');
 
 const router = express.Router();
+const service = new CategoriesServices();
 
 router.get('/', (req, res) => {
   res.json([
